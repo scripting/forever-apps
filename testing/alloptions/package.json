@@ -1,0 +1,16 @@
+{
+	"name": "alloptions",
+	"description": "A test of forever.json features.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"version": "0.4.0",
+	"scripts": {
+		"start": "node alloptions.js"
+		},
+	"dependencies" : {
+		"daveutils": "*"
+		}, 
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+		}
+	}
