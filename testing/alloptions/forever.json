@@ -2,7 +2,7 @@
 	"script": "alloptions.js",
 	"description": "A test of forever.json features.",
 	"reload": {
-		"urlRepo": "https://github.com/scripting/foreverApps.git",
+		"urlRepo": "https://github.com/scripting/forever-apps.git",
 		"repoPath": "testing/alloptions/"
 		},
 	"enabled": false
