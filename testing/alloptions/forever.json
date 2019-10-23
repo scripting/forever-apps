@@ -5,5 +5,5 @@
 		"urlRepo": "https://github.com/scripting/forever-apps.git",
 		"repoPath": "testing/alloptions/"
 		},
-	"enabled": false
+	"enabled": true
 	}
