@@ -5,6 +5,6 @@
 		"urlRepo": "https://github.com/scripting/forever-apps.git",
 		"repoPath": "testing/alloptions/"
 		},
-	"restartAfterSecs": 300,
+	"restartAfterSecs": 60,
 	"enabled": true
 	}
