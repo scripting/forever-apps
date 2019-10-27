@@ -1,6 +1,6 @@
 {
 	"script": "river6.js",
-	"description": "A of River6 running in forever-server.",
+	"description": "A test of River6 running in forever-server.",
 	"reload": {
 		"urlRepo": "https://github.com/scripting/river6.git",
 		"repoPath": ""
